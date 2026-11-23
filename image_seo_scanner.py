@@ -229,7 +229,7 @@ def main():
     print(f"{NEXT_GEN_LABEL} {result['next_gen_count']} (Legados: {result['legacy_format_count']})")
     print(f"{DIMS_DEFINED_LABEL} {result['images_with_dims']}/{result['total_images']}")
     print(f"{LAZY_LOADING_LABEL} {result['images_with_lazy']}/{result['total_images']}")
-    print(f"{OG_IMAGE_LABEL} {result['og_image'] or 'Nao detectada'}")
+    print(f"{OG_IMAGE_LABEL} {result['og_image'] or 'Not detected'}")
 
     if result.get("sample_images"):
         print("-" * 70)
