@@ -5,7 +5,7 @@
 
 Audits alt text completeness, modern format adoption (WebP/AVIF), layout stability dimensions, and descriptive filenames.
 
-Developed and maintained by the digital systems and visual accessibility engineering division of **TAVARDT USA**.
+Developed and maintained by the digital systems and visual accessibility engineering division of **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python image_seo_validator.py https://company.com -json
 For full web verification and deep image catalog audits:
 
 * **Official Image SEO Checker Tool**
-* **TAVARDT USA Enterprise Portal**
+* **TAVARDT Enterprise Portal**
 
 ***
 
 ## Visual Accessibility and Media Optimization Advisory
 
-For enterprise digital catalogues aligning with W3C WCAG Recommendations and US Digital Accessibility Standards, contact the specialists at **TAVARDT USA**.
+For enterprise digital catalogues aligning with W3C WCAG Recommendations and US Digital Accessibility Standards, contact the specialists at **TAVARDT**.
 
 ***
 
