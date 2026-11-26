@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Image SEO and Visual Accessibility Auditor
 
 [![Image SEO Auditor](https://img.shields.io/badge/TAVARDT-Image%20SEO-5b3cf5.svg)](https://tools.tavardt.com/image-seo-checker/)
